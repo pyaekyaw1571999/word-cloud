@@ -1,2 +1,2 @@
 # word-cloud
-Create a wordc-loud using python.
+Create a word-cloud using python.
